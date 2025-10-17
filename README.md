@@ -5,7 +5,7 @@
 
 - Atualmente trabalhando como: **Analista de Implantação em: Selbetti**
 
-- Atualmente estou aprendendo: **React & C#**
+- Atualmente estou aprendendo: **Angular, Node.js e MySQL**
 
 - Atualmente desenvolvendo: **Um projeto Fullstack integrado com a API do Spotify, onde o usuário poderá buscar um artista e receber informações e músicas.**
 
