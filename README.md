@@ -7,7 +7,7 @@
 
 - Atualmente estou aprendendo: **Angular, Node.js e MySQL**
 
-- Atualmente desenvolvendo: **Um projeto Fullstack integrado com a API do Spotify, onde o usuário poderá buscar um artista e receber informações e músicas.**
+- Atualmente desenvolvendo: **Um projeto FullStack de um sistema de Posts e documentações utilizando Node.js, MySQL e Angular.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
