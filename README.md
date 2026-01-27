@@ -1,20 +1,63 @@
-<h1 align="center">Olá 👋, Sou Vinicius</h1>
-<h3 align="center">Profissional com mais de 1 ano de experiência em tecnologias web, buscando novas oportunidades para aplicar meus conhecimentos técnicos e aprimorar minhas habilidades em desenvolvimento de soluções digitais interativas e eficientes.</h3>
+# 👋 Olá, eu sou Vinicius Vicente
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viniovicente99&label=Profile%20views&color=0e75b6&style=flat" alt="viniovicente99" /> </p>
+### Desenvolvedor Front-End Júnior | Junior Frontend Developer
 
-- Atualmente trabalhando como: **Analista de Implantação em: Selbetti**
+💻 Criando interfaces modernas, responsivas e escaláveis com **React, Angular, TypeScript, TailwindCSS, HTML e CSS**.  
+🌐 Experiência em projetos fullstack com **Node.js, MySQL, PostgreSQL e AWS**, conectando front-end a dados e deploys na nuvem.  
 
-- Atualmente estou aprendendo: **Angular, Node.js e MySQL**
+---
 
-- Atualmente desenvolvendo: **Um projeto FullStack de um sistema de Posts e documentações utilizando Node.js, MySQL e Angular.**
+## 🚀 Stack Principal
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vinicius-vicente-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinicius-vicente-developer" height="30" width="40" /></a>
-</p>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniovicente99&show_icons=true&locale=en&layout=compact" alt="viniovicente99" /></p>
+## 💼 Experiência Profissional
+
+### Selbetti Retail Experience (Antiga Pricefy) · Analista de Implantação
+**Nov 2023 – Jan 2026 | São Paulo, SP | Híbrida**  
+
+- Modernização tecnológica de grandes varejistas brasileiros, focando em **padronização visual e automação de precificação**.  
+- Parametrização e configuração de identidade visual em cartazes, tabloides e etiquetas, propondo melhorias de comunicação.  
+- Criação de **layouts responsivos em HTML, CSS e JavaScript**, garantindo clareza visual e adaptabilidade.  
+- Resolução criativa de problemas e exploração de soluções técnicas escaláveis.  
+
+**Stack utilizada:** HTML | CSS | JavaScript | JSON  
+
+---
+
+## 📂 Projetos Relevantes
+
+### 1️⃣ Dashboard de Saúde de Projetos
+- **Problema resolvido:** Permite que gestores identifiquem rapidamente o status e riscos de projetos internos, evitando atrasos e falhas de comunicação.  
+- **Tecnologias:** React + Vite, Recharts, Node.js, PostgreSQL  
+- **Deploy:** AWS S3 + CloudFront  
+
+### 2️⃣ Dashboard e Gerenciamento de Posts
+- **Problema resolvido:** Organiza e publica conteúdo digital de forma centralizada, facilitando a gestão de posts e imagens.  
+- **Tecnologias:** Angular, Node.js, MySQL  
+- **Deploy:** AWS S3 + CloudFront  
+- Foco em **escalabilidade, performance e UX**  
+
+---
+
+## 🌟 Competências Técnicas
+
+- **Front-End:** React, Angular, TypeScript, TailwindCSS, HTML, CSS, JavaScript  
+- **Back-End / Cloud (diferencial):** Node.js, MySQL, PostgreSQL, AWS  
+- **UI/UX:** Design responsivo, design systems, Material Design, experiência do usuário  
+
+---
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/vinicius-vicente-frontend/?_l=pt_BR)  
+- Email: viniovicente99@gmail.com
+
