@@ -38,7 +38,20 @@
 ### 1️⃣ Dashboard de Saúde de Projetos
 - **Problema resolvido:** Permite que gestores identifiquem rapidamente o status e riscos de projetos internos, evitando atrasos e falhas de comunicação.  
 - **Tecnologias:** React + Vite, Recharts, Node.js, PostgreSQL  
-- **Deploy:** AWS S3 + CloudFront
+- **Deploy:** AWS S3 + Website estático
+  
+
+Home do Sistema:
+
+
+![Home do sistema](./screenshots/home2.PNG)
+
+
+Dashboard de Posts do Sistema:
+
+
+![Dashboard de posts](./screenshots/dashboard2.PNG)
+
   
 
 ### 2️⃣ Dashboard e Gerenciamento de Posts
@@ -46,6 +59,7 @@
 - **Tecnologias:** Angular, Node.js, MySQL  
 - **Deploy:** AWS S3 + CloudFront  
 - Foco em **escalabilidade, performance e UX**
+
 
 Home do Sistema:
 
