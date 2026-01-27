@@ -47,10 +47,12 @@ Home do Sistema:
 ![Home do sistema](./screenshots/home2.PNG)
 
 
-Dashboard de Posts do Sistema:
+Visualização para Análise dos Projetos:
 
 
 ![Dashboard de posts](./screenshots/dashboard2.PNG)
+
+
 
   
 
