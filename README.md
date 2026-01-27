@@ -40,8 +40,8 @@
 - **Tecnologias:** React + Vite, Recharts, Node.js, PostgreSQL  
 - **Deploy:** AWS S3 + CloudFront
 
-![Home do sistema](../screenshots/home.png)
-![Dashboard de posts](../screenshots/dashboard.png)
+![Home do sistema](./screenshots/home.PNG)
+![Dashboard de posts](./screenshots/dashboard.PNG)
 
 
 ### 2️⃣ Dashboard e Gerenciamento de Posts
