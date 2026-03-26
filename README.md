@@ -1,90 +1,178 @@
 # 👋 Olá, eu sou Vinicius Vicente
 
-### Desenvolvedor Front-End Júnior | Junior Frontend Developer
+### Desenvolvedor Backend Júnior | Node.js • TypeScript • APIs REST
 
-💻 Criando interfaces modernas, responsivas e escaláveis com **React, Angular, TypeScript, TailwindCSS, HTML e CSS**.  
-🌐 Experiência em projetos fullstack com **Node.js, MySQL, PostgreSQL e AWS**, conectando front-end a dados e deploys na nuvem.  
+💡 Desenvolvo **APIs escaláveis e integradas**, conectando múltiplos serviços, modelando dados e aplicando boas práticas de arquitetura.  
+🧠 Experiência prática com **Node.js, TypeScript, PostgreSQL, Python (FastAPI), integração com IA (OpenAI) e sistemas distribuídos**.  
+☁️ Deploy e estruturação de aplicações com **AWS**.  
 
 ---
 
-## 🚀 Stack Principal
+## 🚀 Stack Principal (Backend)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Node.js** – desenvolvimento de APIs REST  
+- **TypeScript** – tipagem e escalabilidade  
+- **Fastify & Express** – construção de APIs performáticas  
+- **PostgreSQL & MySQL** – modelagem e persistência de dados  
+- **Python (FastAPI)** – APIs auxiliares e processamento de dados  
+- **Pandas & OpenPyXL** – manipulação e exportação de dados  
+- **Integração com IA (OpenAI API)** – geração de insights automatizados  
+- **Jest** – testes automatizados  
+- **AWS (S3, CloudFront)** – deploy e hospedagem  
+- **Docker** – containers para desenvolvimento  
+- **Git** – versionamento colaborativo  
+
+### **Front-End (Apoio)**
+- React  
+- Angular  
+- TailwindCSS  
+- HTML, CSS  
 
 ---
 
 ## 💼 Experiência Profissional
 
-### Selbetti Retail Experience (Antiga Pricefy) · Analista de Implantação
-**Nov 2023 – Jan 2026 | São Paulo, SP | Híbrida**  
+### Selbetti Retail Experience · Desenvolvedor Backend Júnior  
+**Nov 2023 – Jan 2026 | São Paulo, SP | Híbrido**
 
-- Modernização tecnológica de grandes varejistas brasileiros, focando em **padronização visual e automação de precificação**.  
-- Parametrização e configuração de identidade visual em cartazes, tabloides e etiquetas, propondo melhorias de comunicação.  
-- Criação de **layouts responsivos em HTML, CSS e JavaScript**, garantindo clareza visual e adaptabilidade.  
-- Resolução criativa de problemas e exploração de soluções técnicas escaláveis.  
-
-**Stack utilizada:** HTML | CSS | JavaScript | JSON  
+- Desenvolvimento e manutenção de **APIs REST com Node.js, TypeScript e Express**  
+- Estruturação de aplicações com **arquitetura em camadas (controllers, services, repositories)**  
+- Implementação de **regras de negócio, validações e tratamento de erros centralizado**  
+- Modelagem e manipulação de dados com **PostgreSQL e MySQL**  
+- Integração entre sistemas corporativos e interfaces web  
+- Versionamento com **Git** em ambiente colaborativo  
+- Participação em **code reviews e rituais ágeis (Scrum)**  
 
 ---
 
 ## 📂 Projetos Relevantes
 
-### 1️⃣ Dashboard de Saúde de Projetos
-- **Problema resolvido:** Permite que gestores identifiquem rapidamente o status e riscos de projetos internos, evitando atrasos e falhas de comunicação.  
-- **Tecnologias:** React + Vite, Recharts, Node.js, PostgreSQL  
-- **Deploy:** AWS S3 + Website estático
-  
+## 🧠 1️⃣ Stokup — Sistema de gestão e previsão de estoque multi-loja
 
-Home do Sistema:
+Sistema completo simulando ambiente corporativo, com separação de serviços e foco em **escalabilidade e integração entre APIs**.
 
+### 💥 Problema
+Falta de visibilidade sobre estoque distribuído entre lojas e dificuldade na tomada de decisão baseada em dados.
 
-![Home do sistema](./screenshots/home2.PNG)
+### 🚀 Solução
+Plataforma que centraliza dados de estoque, aplica regras de negócio e gera **insights automatizados com IA**, além de permitir exportação estruturada de dados.
 
+---
 
-Visualização para Análise dos Projetos:
+### ⚙️ Backend Principal (Node.js)
 
+- API REST desenvolvida com **Node.js e TypeScript**  
+- Implementação de **regras de negócio reais** (ex: exclusão condicionada a estoque zerado)  
+- CRUD completo de entidades  
+- Modelagem relacional com **PostgreSQL**  
+- Estruturação modular visando **manutenção e escalabilidade**  
+- Arquitetura preparada para evolução em **microsserviços**  
 
-![Dashboard de posts](./screenshots/dashboard2.PNG)
+---
 
+### 🧠 IA e Insights Automatizados
 
-Link para acesso ao sistema:
+- Integração com **API da OpenAI**  
+- Geração de insights sobre estoque com base nos dados  
+- Apoio à tomada de decisão através de análise automatizada  
+
+---
+
+### 📦 API de Exportação (Python)
+
+- API desenvolvida com **FastAPI**  
+- Endpoint para exportação de dados em **Excel (XLSX)**  
+- Processamento de dados com **Pandas**  
+- Geração de planilhas com **OpenPyXL**  
+- Integração entre serviços (Node.js ↔ Python)  
+
+---
+
+### 🛠️ Tecnologias
+
+- Node.js, TypeScript  
+- PostgreSQL  
+- Python (FastAPI)  
+- Pandas, OpenPyXL  
+- OpenAI API  
+- React (interface)  
+- AWS  
+
+---
+
+### ☁️ Deploy
+AWS S3 (Static Website Hosting)
+
+---
+
+### 🖼️ Telas
+
+![Home do sistema](./screenshots/Stokup_dashboard.jpg)  
+![Insights com IA](./screenshots/Stokup_ai_insights.jpg)  
+![Gestão de estoque](./screenshots/Stokup_stock.jpg)  
+
+---
+
+### 🔗 Acesso
+http://stokup-frontend.s3-website.us-east-2.amazonaws.com/login
+
+---
+
+## 📊 2️⃣ Dashboard de Saúde de Projetos
+
+Sistema para monitoramento de projetos e identificação de riscos.
+
+**Backend:** Node.js, PostgreSQL, APIs REST  
+**Frontend (apoio):** React + Recharts  
+**Deploy:** AWS S3  
+
+**🖼️ Telas**
+
+![Home](./screenshots/home2.PNG)  
+![Dashboard](./screenshots/dashboard2.PNG)  
+
+**🔗 Acesso**
 http://project-health-frontend.s3-website.us-east-2.amazonaws.com/projects-dashboard
 
+---
 
+## 📝 3️⃣ Dashboard e Gerenciamento de Posts
 
-  
+Sistema para gestão e publicação de conteúdo.
 
-### 2️⃣ Dashboard e Gerenciamento de Posts
-- **Problema resolvido:** Organiza e publica conteúdo digital de forma centralizada, facilitando a gestão de posts e imagens.  
-- **Tecnologias:** Angular, Node.js, MySQL  
-- **Deploy:** AWS S3 + CloudFront  
-- Foco em **escalabilidade, performance e UX**
+**Backend:** Node.js, MySQL, APIs REST  
+**Frontend (apoio):** Angular  
+**Deploy:** AWS S3 + CloudFront  
 
+**🖼️ Telas**
 
-Home do Sistema:
-
-
-![Home do sistema](./screenshots/home.PNG)
-
-
-Dashboard de Posts do Sistema:
-
-
-![Dashboard de posts](./screenshots/dashboard.PNG)
+![Home](./screenshots/home.PNG)  
+![Dashboard](./screenshots/dashboard.PNG)
 
 ---
 
 ## 🌟 Competências Técnicas
 
-- **Front-End:** React, Angular, TypeScript, TailwindCSS, HTML, CSS, JavaScript  
-- **Back-End / Cloud (diferencial):** Node.js, MySQL, PostgreSQL, AWS  
-- **UI/UX:** Design responsivo, design systems, Material Design, experiência do usuário  
+### **Back-End (Principal)**
+- Node.js, TypeScript  
+- Express, Fastify  
+- APIs REST  
+- Arquitetura em camadas  
+- Regras de negócio e validação  
+- Tratamento de erros centralizado  
+- Integração entre serviços (Node.js + Python)  
+- PostgreSQL, MySQL  
+- FastAPI  
+- Pandas, OpenPyXL  
+- Integração com IA (OpenAI API)  
+- Testes com Jest  
+- AWS  
+- Docker  
+- Git  
+
+### **Front-End (Apoio)**
+- React, Angular  
+- TailwindCSS, HTML, CSS  
 
 ---
 
@@ -92,4 +180,3 @@ Dashboard de Posts do Sistema:
 
 - [LinkedIn](https://www.linkedin.com/in/vinicius-vicente-frontend/?_l=pt_BR)  
 - Email: viniovicente99@gmail.com
-
