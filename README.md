@@ -28,23 +28,6 @@
 - TailwindCSS  
 - HTML, CSS  
 
----
-
-## 💼 Experiência Profissional
-
-### Selbetti Retail Experience · Desenvolvedor Backend Júnior  
-**Nov 2023 – Jan 2026 | São Paulo, SP | Híbrido**
-
-- Desenvolvimento e manutenção de **APIs REST com Node.js, TypeScript e Express**  
-- Estruturação de aplicações com **arquitetura em camadas (controllers, services, repositories)**  
-- Implementação de **regras de negócio, validações e tratamento de erros centralizado**  
-- Modelagem e manipulação de dados com **PostgreSQL e MySQL**  
-- Integração entre sistemas corporativos e interfaces web  
-- Versionamento com **Git** em ambiente colaborativo  
-- Participação em **code reviews e rituais ágeis (Scrum)**  
-
----
-
 ## 📂 Projetos Relevantes
 
 ## 🧠 1️⃣ Stokup — Sistema de gestão e previsão de estoque multi-loja
