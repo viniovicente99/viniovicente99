@@ -2,8 +2,8 @@
 
 ### Desenvolvedor Fullstack Júnior | React • TypeScript • Node.js • APIs REST • PostgreSQL
 
-💡 Desenvolvo **APIs escaláveis e integradas**, conectando múltiplos serviços, modelando dados e aplicando boas práticas de arquitetura.  
-🧠 Experiência prática com **Node.js, TypeScript, PostgreSQL, Python (FastAPI), integração com IA (OpenAI) e sistemas distribuídos**.  
+💡 Desenvolvo **APIs escaláveis e integradas**, conectando serviços, modelando dados e aplicando boas práticas de arquitetura.  
+🧠 Experiência prática com **Node.js, TypeScript, PostgreSQL, Python (FastAPI) e integração com IA (OpenAI)**.  
 ☁️ Deploy e estruturação de aplicações com **AWS**.  
 
 ---
