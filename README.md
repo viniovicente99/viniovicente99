@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Vinicius Vicente
 
-### Desenvolvedor Fullstack Júnior | React • Node.js • TypeScript • APIs REST
+### Desenvolvedor Fullstack Júnior | React • TypeScript • Node.js • APIs REST • PostgreSQL
 
 💡 Desenvolvo **APIs escaláveis e integradas**, conectando múltiplos serviços, modelando dados e aplicando boas práticas de arquitetura.  
 🧠 Experiência prática com **Node.js, TypeScript, PostgreSQL, Python (FastAPI), integração com IA (OpenAI) e sistemas distribuídos**.  
