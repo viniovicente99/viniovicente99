@@ -140,7 +140,7 @@ Evoluindo em:
 
 * Arquitetura backend
 * Integração entre serviços
-* Boas práticas com Spring Boot
+* Boas práticas de segurança
 * Observabilidade e debugging
 
 ---
