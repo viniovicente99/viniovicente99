@@ -1,165 +1,94 @@
-# 👋 Olá, eu sou Vinicius Vicente
+Desenvolvedor Backend Júnior focado em APIs, integrações e processamento de dados.
 
-### Desenvolvedor Fullstack Júnior | React • TypeScript • Node.js • APIs REST • PostgreSQL
+Atuo construindo serviços que conectam sistemas, tratam dados e lidam com falhas em ambiente real.
 
-💡 Desenvolvo **APIs escaláveis e integradas**, conectando serviços, modelando dados e aplicando boas práticas de arquitetura.  
-🧠 Experiência prática com **Node.js, TypeScript, PostgreSQL, Python (FastAPI) e integração com IA (OpenAI)**.  
-☁️ Deploy e estruturação de aplicações com **AWS**.  
+Stack Backend
 
----
+Python (FastAPI)
+Java (Spring Boot)
+Node.js (Express / Fastify)
+PostgreSQL / MySQL
+SQLAlchemy
+Spring Data JPA
+Docker / Docker Compose
+REST APIs
+Integrações com serviços externos
+Git
 
-## 🚀 Stack Principal (Backend)
+O que eu sei fazer
 
-- **Node.js** – desenvolvimento de APIs REST  
-- **TypeScript** – tipagem e escalabilidade  
-- **Fastify & Express** – construção de APIs performáticas  
-- **PostgreSQL & MySQL** – modelagem e persistência de dados  
-- **Python (FastAPI)** – APIs auxiliares e processamento de dados  
-- **Pandas & OpenPyXL** – manipulação e exportação de dados  
-- **Integração com IA (OpenAI API)** – geração de insights automatizados  
-- **Jest** – testes automatizados  
-- **AWS (S3, CloudFront)** – deploy e hospedagem  
-- **Docker** – containers para desenvolvimento  
-- **Git** – versionamento colaborativo  
+Desenvolver APIs REST com FastAPI, Spring Boot e Node.js
+Integrar sistemas externos (APIs, serviços)
+Tratar erros e falhas de integração
+Trabalhar com dados em banco relacional (PostgreSQL)
+Estruturar projetos backend em camadas
+Debugar problemas em ambiente real
+Containerizar aplicações com Docker
 
-### **Front-End**
-- React  
-- Angular  
-- TailwindCSS  
-- HTML, CSS  
+Projetos Relevantes
 
-## 📂 Projetos Relevantes
+Sentinel API (Python + FastAPI)
 
-## 🧠 1️⃣ Stokup — Sistema de gestão e previsão de estoque multi-loja
+API para ingestão e enriquecimento de eventos com integração externa.
 
-Sistema completo simulando ambiente corporativo, com separação de serviços e foco em **escalabilidade e integração entre APIs**.
+Principais pontos:
 
-### 💥 Problema
-Falta de visibilidade sobre estoque distribuído entre lojas e dificuldade na tomada de decisão baseada em dados.
+Integração com API de geolocalização por IP
+Tratamento de falhas com fallback
+Persistência em PostgreSQL
+Atualização parcial com PATCH
+Conversão de tipos (IPvAnyAddress → string) para compatibilidade com banco
+Estrutura em camadas (API, Service, Model, Schema)
+Containerização com Docker
 
-### 🚀 Solução
-Plataforma que centraliza dados de estoque, aplica regras de negócio e gera **insights automatizados com IA**, além de permitir exportação estruturada de dados.
+Foco: integração, tratamento de erro e consistência de dados
 
----
 
-### ⚙️ Backend Principal (Node.js)
+Stokup (Node.js + PostgreSQL)
 
-- API REST desenvolvida com **Node.js e TypeScript**  
-- Implementação de **regras de negócio reais** (ex: exclusão condicionada a estoque zerado)  
-- CRUD completo de entidades  
-- Modelagem relacional com **PostgreSQL**  
-- Estruturação modular visando **manutenção e escalabilidade**  
-- Arquitetura preparada para evolução em **microsserviços**  
+Sistema de gestão de estoque com foco em regras de negócio e análise de dados.
 
----
+Principais pontos:
 
-### 🧠 IA e Insights Automatizados
+API REST com regras reais (ex: validação de exclusão por estoque)
+Modelagem relacional
+Integração com serviço externo (IA)
+Exportação de dados via API Python (FastAPI)
+Comunicação entre serviços
 
-- Integração com **API da OpenAI**  
-- Geração de insights sobre estoque com base nos dados  
-- Apoio à tomada de decisão através de análise automatizada  
+Foco: regras de negócio + integração entre serviços
 
----
 
-### 📦 API de Exportação (Python)
+Project Health Dashboard
 
-- API desenvolvida com **FastAPI**  
-- Endpoint para exportação de dados em **Excel (XLSX)**  
-- Processamento de dados com **Pandas**  
-- Geração de planilhas com **OpenPyXL**  
-- Integração entre serviços (Node.js ↔ Python)  
+API para monitoramento de projetos e identificação de riscos.
 
----
+Principais pontos:
 
-### 🛠️ Tecnologias
+Backend em Node.js
+Persistência em PostgreSQL
+Estrutura orientada a métricas
+Suporte a dashboards
 
-- Node.js, TypeScript  
-- PostgreSQL  
-- Python (FastAPI)  
-- Pandas, OpenPyXL  
-- OpenAI API  
-- React (interface)  
-- AWS  
+Foco: modelagem de dados + exposição de informação
 
----
 
-### ☁️ Deploy
-AWS S3 (Static Website Hosting)
+Experiência
 
----
+Experiência em ambiente corporativo com sistemas utilizados por grandes redes varejistas.
 
-### 🖼️ Telas
+Desenvolvimento e manutenção de interfaces web
+Integrações entre sistemas via APIs (JSON)
+Correção de bugs em produção
+Evolução de funcionalidades existentes
+Participação em discussões técnicas
 
-![Home do sistema](./screenshots/Stokup_dashboard.jpg)  
-![Insights com IA](./screenshots/Stokup_ai_insights.jpg)  
-![Gestão de estoque](./screenshots/Stokup_stock.jpg)  
+Projeto interno:
 
----
+API REST em Node.js para gestão de conteúdo
+Interface Angular com formulários dinâmicos
+Upload de arquivos com AWS S3
+Contato
 
-### 🔗 Acesso
-http://stokup-frontend.s3-website.us-east-2.amazonaws.com/login
-
----
-
-## 📊 2️⃣ Dashboard de Saúde de Projetos
-
-Sistema para monitoramento de projetos e identificação de riscos.
-
-**Backend:** Node.js, PostgreSQL, APIs REST  
-**Frontend (apoio):** React + Recharts  
-**Deploy:** AWS S3  
-
-**🖼️ Telas**
-
-![Home](./screenshots/home2.PNG)  
-![Dashboard](./screenshots/dashboard2.PNG)  
-
-**🔗 Acesso**
-http://project-health-frontend.s3-website.us-east-2.amazonaws.com/projects-dashboard
-
----
-
-## 📝 3️⃣ Dashboard e Gerenciamento de Posts
-
-Sistema para gestão e publicação de conteúdo.
-
-**Backend:** Node.js, MySQL, APIs REST  
-**Frontend (apoio):** Angular  
-**Deploy:** AWS S3 + CloudFront  
-
-**🖼️ Telas**
-
-![Home](./screenshots/home.PNG)  
-![Dashboard](./screenshots/dashboard.PNG)
-
----
-
-## 🌟 Competências Técnicas
-
-### **Back-End (Principal)**
-- Node.js, TypeScript  
-- Express, Fastify  
-- APIs REST  
-- Arquitetura em camadas  
-- Regras de negócio e validação  
-- Tratamento de erros centralizado  
-- Integração entre serviços (Node.js + Python)  
-- PostgreSQL, MySQL  
-- FastAPI  
-- Pandas, OpenPyXL  
-- Integração com IA (OpenAI API)  
-- Testes com Jest  
-- AWS  
-- Docker  
-- Git  
-
-### **Front-End (Apoio)**
-- React, Angular  
-- TailwindCSS, HTML, CSS  
-
----
-
-## 📫 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/vinicius-vicente-frontend/?_l=pt_BR)  
-- Email: viniovicente99@gmail.com
+LinkedIn: https://www.linkedin.com/in/vinicius-vicente-developer/
+Email: viniovicente99@gmail.com
