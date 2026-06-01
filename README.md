@@ -106,6 +106,7 @@ Node.js • TypeScript • Fastify • Prisma • SQLite • Zod • Vitest
 **Foco:** organização, validação, testes e boas práticas
 
 https://github.com/viniovicente99/cinemais-api
+
 ---
 
 ## 💼 Experiência
