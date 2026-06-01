@@ -50,6 +50,7 @@ API para ingestão e enriquecimento de eventos com integração externa.
 
 **Foco:** integração, tratamento de erro e consistência de dados
 
+https://github.com/viniovicente99/sentinel-api
 ---
 
 ### 📦 Stokup (Node.js + Python + PostgreSQL)
@@ -66,6 +67,8 @@ Sistema de gestão de estoque com foco em regras de negócio e análise de dados
 
 **Foco:** regras de negócio + integração entre serviços
 
+https://stokup.vercel.app/login
+https://github.com/viniovicente99/stokup
 ---
 
 ### 🎬 Media Catalog API (Node.js + Fastify)
@@ -99,6 +102,7 @@ Node.js • TypeScript • Fastify • Prisma • SQLite • Zod • Vitest
 
 **Foco:** organização, validação, testes e boas práticas
 
+https://github.com/viniovicente99/cinemais-api
 ---
 
 ## 💼 Experiência
