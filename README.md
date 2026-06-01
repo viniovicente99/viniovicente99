@@ -68,6 +68,7 @@ Sistema de gestão de estoque com foco em regras de negócio e análise de dados
 **Foco:** regras de negócio + integração entre serviços
 
 https://stokup.vercel.app/login
+
 https://github.com/viniovicente99/stokup
 ---
 
