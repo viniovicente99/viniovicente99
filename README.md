@@ -13,15 +13,18 @@ Java (Spring Boot)
 Python (FastAPI)
 Node.js (Express / Fastify)
 
+
 Frontend
 
 React (experiência prática)
 Angular (experiência profissional)
 
+
 Dados
 
 PostgreSQL / MySQL
 Modelagem relacional
+
 
 Infra & DevOps
 
@@ -30,12 +33,14 @@ Git
 Execução e configuração de ambientes
 Outros
 
+
 REST APIs
 
 Integrações com serviços externos
 Arquitetura em camadas
 Mensageria (RabbitMQ)
 Debugging e análise de falhas
+
 
 🔧 Projetos Relevantes
 
@@ -68,6 +73,7 @@ Java 17 • Spring Boot • RabbitMQ • PostgreSQL • Docker • JUnit • Swa
 
 Foco: microsserviços, mensageria, resiliência e processamento assíncrono
 
+
 🔐 Sentinel API (Python + FastAPI)
 
 API para ingestão e enriquecimento de eventos com integração externa.
@@ -83,6 +89,7 @@ Containerização com Docker
 Foco: integração, resiliência e consistência de dados
 
 🔗 https://github.com/viniovicente99/sentinel-api
+
 
 📦 Stokup (Node.js + Python + PostgreSQL)
 
@@ -100,6 +107,7 @@ Foco: integração + automação + regras de negócio
 🔗 https://stokup.vercel.app/login
 🔗 https://github.com/viniovicente99/stokup
 
+
 🎬 Media Catalog API (Node.js + Fastify)
 
 API para gerenciamento de catálogo com foco em organização e qualidade.
@@ -112,6 +120,7 @@ ORM com Prisma
 Testes com Vitest
 Tratamento de erros centralizado
 
+
 Infra:
 
 Docker + docker-compose
@@ -119,6 +128,7 @@ Docker + docker-compose
 Foco: boas práticas, testes e manutenção
 
 🔗 https://github.com/viniovicente99/cinemais-api
+
 
 💼 Experiência Profissional
 
@@ -137,6 +147,7 @@ Projeto interno:
 API REST em Node.js para gestão de conteúdo
 Interface Angular com formulários dinâmicos
 Upload de arquivos com AWS S3
+
 
 ⚙️ Práticas de Engenharia
 
