@@ -1,146 +1,159 @@
 
+Vinícius Vicente — Full Stack Developer
 
-Desenvolvedor Backend Júnior focado em APIs, integrações e processamento de dados.
+Desenvolvedor Full Stack com foco em APIs, integrações e arquitetura de sistemas distribuídos, atuando na construção de soluções que conectam serviços, processam dados e lidam com falhas em cenários reais.
 
-Atuo construindo serviços que conectam sistemas, tratam dados e lidam com falhas em ambiente real.
+Experiência com desenvolvimento backend em múltiplas stacks, construção de integrações entre sistemas, automações e arquiteturas assíncronas, além de participação em evolução de produtos e sistemas internos.
 
----
+🚀 Stack Tecnológica
 
-## ⚙️ Stack Backend
+Backend
 
-* **Python (FastAPI)**
-* **Java (Spring Boot)**
-* **Node.js (Express / Fastify)**
-* PostgreSQL / MySQL
-* SQLAlchemy
-* Docker / Docker Compose
-* REST APIs
-* Integrações com serviços externos
-* Git
+Java (Spring Boot)
+Python (FastAPI)
+Node.js (Express / Fastify)
 
----
+Frontend
 
-## 🧠 O que eu faço
+React (experiência prática)
+Angular (experiência profissional)
 
-* Desenvolvimento de APIs REST com FastAPI, Spring Boot e Node.js
-* Integrações de sistemas externos (APIs, serviços)
-* Tratamento de erros e falhas de integração
-* Trabalho com dados em banco relacional (PostgreSQL)
-* Estruturação de projetos backend em camadas
-* Debug de problemas em ambiente real
-* Criação de containers de aplicações com Docker
+Dados
 
----
+PostgreSQL / MySQL
+Modelagem relacional
 
-## 📂 Projetos Relevantes
+Infra & DevOps
 
-### 🔐 Sentinel API (Python + FastAPI)
+Docker / Docker Compose
+Git
+Execução e configuração de ambientes
+Outros
+
+REST APIs
+
+Integrações com serviços externos
+Arquitetura em camadas
+Mensageria (RabbitMQ)
+Debugging e análise de falhas
+
+🔧 Projetos Relevantes
+
+🚀 FlowOrder (Java + Spring Boot + RabbitMQ)
+
+Sistema distribuído baseado em microsserviços para processamento assíncrono de pedidos.
+
+Arquitetura:
+
+Microsserviços independentes (Order, Payment, Notification)
+Comunicação via mensageria (RabbitMQ)
+Arquitetura orientada a eventos (event-driven)
+
+Destaques:
+
+Pipeline completo assíncrono de pedidos
+Publicação e consumo de eventos (order.created, payment.created)
+Uso de Dead Letter Queues (DLQ) para tratamento de falhas
+Persistência isolada por serviço
+Containerização com Docker
+
+Fluxo:
+Order → publica evento → Payment consome/processa → publica novo evento → Notification consome
+
+Stack:
+Java 17 • Spring Boot • RabbitMQ • PostgreSQL • Docker • JUnit • Swagger
+
+🔗 API: https://order-service-2fg6.onrender.com/
+🔗 Repositório: https://github.com/viniovicente99/flowOrder
+
+Foco: microsserviços, mensageria, resiliência e processamento assíncrono
+
+🔐 Sentinel API (Python + FastAPI)
 
 API para ingestão e enriquecimento de eventos com integração externa.
 
-**Principais pontos:**
+Destaques:
 
-* Integração com API de geolocalização por IP
-* Tratamento de falhas com fallback controlado
-* Persistência em PostgreSQL
-* Atualização parcial com PATCH
-* Conversão de tipos (`IPvAnyAddress → string`) para compatibilidade com banco
-* Estrutura em camadas (API, Service, Model, Schema)
-* Containerização com Docker
+Integração com API de geolocalização por IP
+Tratamento de falhas com fallback controlado
+Persistência em PostgreSQL
+Estrutura em camadas
+Containerização com Docker
 
-**Foco:** integração, tratamento de erro e consistência de dados
+Foco: integração, resiliência e consistência de dados
 
-https://github.com/viniovicente99/sentinel-api
+🔗 https://github.com/viniovicente99/sentinel-api
 
----
+📦 Stokup (Node.js + Python + PostgreSQL)
 
-### 📦 Stokup (Node.js + Python + PostgreSQL)
+Sistema de gestão de estoque com foco em regras de negócio e integração.
 
-Sistema de gestão de estoque com foco em regras de negócio e análise de dados.
+Destaques:
 
-**Principais pontos:**
+API REST com regras reais de negócio
+Modelagem relacional
+Integração com serviço externo (IA)
+Comunicação entre serviços
 
-* API REST com regras reais de negócio
-* Modelagem relacional
-* Integração com serviço externo (IA)
-* Exportação de dados via API Python (FastAPI)
-* Comunicação entre serviços
+Foco: integração + automação + regras de negócio
 
-**Foco:** regras de negócio + integração entre serviços
+🔗 https://stokup.vercel.app/login
+🔗 https://github.com/viniovicente99/stokup
 
-https://stokup.vercel.app/login
+🎬 Media Catalog API (Node.js + Fastify)
 
-https://github.com/viniovicente99/stokup
+API para gerenciamento de catálogo com foco em organização e qualidade.
 
----
+Destaques:
 
-### 🎬 Media Catalog API (Node.js + Fastify)
+Arquitetura em camadas
+Validação com Zod
+ORM com Prisma
+Testes com Vitest
+Tratamento de erros centralizado
 
-API REST para gerenciamento de catálogo de mídias e favoritos de usuários.
+Infra:
 
-**Tecnologias:**
-Node.js • TypeScript • Fastify • Prisma • SQLite • Zod • Vitest
+Docker + docker-compose
 
-**Principais pontos:**
+Foco: boas práticas, testes e manutenção
 
-* Arquitetura em camadas (Controller, Service, Repository)
-* Validação de dados com Zod
-* ORM com Prisma
-* Tratamento de erros centralizado
-* Testes automatizados com Vitest
-* Prevenção de duplicidade e validação de regras
-* Estrutura organizada e de fácil manutenção
+🔗 https://github.com/viniovicente99/cinemais-api
 
-**Funcionalidades:**
+💼 Experiência Profissional
 
-* CRUD de mídias (filmes/séries)
-* Sistema de favoritos por usuário
-* Validação de entrada e cenários de erro
-* Testes cobrindo fluxos principais
+Atuação em ambiente corporativo com sistemas utilizados por grandes redes varejistas.
 
-**Infra:**
+Responsabilidades:
 
-* Configuração com Docker (Dockerfile + docker-compose)
-* Execução local simples via `.env`
+Desenvolvimento e manutenção de aplicações web
+Integrações entre sistemas via APIs (JSON)
+Correção de bugs em produção
+Evolução de funcionalidades existentes
+Participação em discussões técnicas
 
-**Foco:** organização, validação, testes e boas práticas
+Projeto interno:
 
-https://github.com/viniovicente99/cinemais-api
+API REST em Node.js para gestão de conteúdo
+Interface Angular com formulários dinâmicos
+Upload de arquivos com AWS S3
 
----
+⚙️ Práticas de Engenharia
 
-## 💼 Experiência
+Versionamento com Git
+Estruturação em camadas e organização de código
+Tratamento de erros e falhas de integração
+Desenvolvimento orientado à manutenção e evolução
+Participação em fluxos colaborativos
 
-Experiência em ambiente corporativo com sistemas utilizados por grandes redes varejistas.
+📌 Foco Atual
 
-* Desenvolvimento e manutenção de interfaces web
-* Integrações entre sistemas via APIs (JSON)
-* Correção de bugs em produção
-* Evolução de funcionalidades existentes
-* Participação em discussões técnicas
+Arquitetura de microsserviços
+Sistemas orientados a eventos
+Integrações entre APIs e plataformas
+Automação de processos
+Evolução em boas práticas e arquitetura limpa
 
-**Projeto interno:**
+📫 Contato
 
-* API REST em Node.js para gestão de conteúdo
-* Interface Angular com formulários dinâmicos
-* Upload de arquivos com AWS S3
-
----
-
-## 📫 Contato
-
-* LinkedIn: https://www.linkedin.com/in/vinicius-vicente-developer
-* Email: https://www.linkedin.com/in/vinicius-vicente-developer)
-
----
-
-## 📌 Foco Atual
-
-Evoluindo em:
-
-* Arquitetura backend
-* Integração entre serviços
-* Boas práticas de segurança
-* Observabilidade e debugging
-
----
+LinkedIn: https://www.linkedin.com/in/vinicius-vicente-developer
